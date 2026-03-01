@@ -1,12 +1,7 @@
 # Hue-Shift
 
-Hue-Shift, also known as Color-changing Background, is an interactive web project that offers an engaging and visually captivating experience by dynamically changing the background color of a webpage. This project is built using HTML, CSS, and JavaScript.
+Hue Shift is an interactive web project, that changes the background color of the webpage as you move your mouse. It’s a fun and visually engaging way to explore colors.
 
-## Features
-
-- Smooth Transition: Upon loading the webpage, the background color smoothly transitions between a selection of vibrant and attractive colors, creating a visually appealing effect.
-
-- Interactive Hue-Shifting: As the user moves their mouse cursor, the background color instantly changes to a randomly selected hue from a predefined set of colors. This interactive element adds an enjoyable touch to the browsing experience.
 
 ## How to Use
 
